@@ -1,0 +1,8 @@
+{
+  "name": "Junior Cricket Scorer",
+  "description": "Pairs and equal-play junior cricket scoring app with real-time net runs, wicket penalty deductions, over tracking, player stats, charts, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
